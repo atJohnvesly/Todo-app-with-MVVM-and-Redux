@@ -9,4 +9,5 @@ I have covered most of the areas highlighted below,
 4. DRY coding principles
 5. Manageable and maintanable effiicient code
 6. Local Storage (SharedPreferences)
-7. RESTful API integration.
+7. RESTful API integration
+8. Separation of Navigation Route System.
