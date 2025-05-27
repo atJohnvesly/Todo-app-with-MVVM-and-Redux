@@ -7,7 +7,7 @@ import 'package:todoapp/utility/base_color_theme.dart';
 import 'package:todoapp/utility/button.dart';
 import 'package:todoapp/utility/custom_textfield.dart';
 import 'package:todoapp/view/home/widgets/add_todo_modal_sheet.dart';
-import 'package:todoapp/view/home/widgets/custom_appbar.dart';
+import 'package:todoapp/utility/custom_appbar.dart';
 import 'package:todoapp/view/home/widgets/todo_board.dart';
 import 'package:todoapp/view/home/widgets/todo_scroller.dart';
 import 'package:todoapp/view_model/todo_view_model.dart';
@@ -40,7 +40,7 @@ class _HomeScreenState extends State<HomeScreen> {
       resizeToAvoidBottomInset: false,
       backgroundColor: BaseColorTheme.white500,
       appBar: CustomAppBar(
-        title: 'Todo MI Synergy ',
+        title: 'Todo App',
         isDetail: false,
       ),
       body: SafeArea(

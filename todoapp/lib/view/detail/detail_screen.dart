@@ -7,7 +7,7 @@ import 'package:todoapp/view/detail/widget/edit_todo_modal_sheet.dart';
 import 'package:todoapp/view/detail/widget/image_board.dart';
 import 'package:todoapp/view/detail/widget/circle_button.dart';
 import 'package:todoapp/view/detail/widget/todo_detail_board.dart';
-import 'package:todoapp/view/home/widgets/custom_appbar.dart';
+import 'package:todoapp/utility/custom_appbar.dart';
 import 'package:todoapp/view_model/todo_view_model.dart';
 
 class DetailScreen extends StatefulWidget {
